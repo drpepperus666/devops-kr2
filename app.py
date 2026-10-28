@@ -1,3 +1,4 @@
+# KR2: Шаломеенко А.А.
 import os
 import socket
 
